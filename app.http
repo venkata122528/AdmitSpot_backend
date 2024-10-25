@@ -1,0 +1,13 @@
+###
+POST http://localhost:3000/contact-management/
+Content-Type: application/json
+
+{
+   "name":"Virat",
+   "email":"virat123@gmail.com",
+   "phone number":8976543210,
+   "address":"Hyderabad",
+   "timezone":"india"
+}
+
+###
